@@ -1,0 +1,6 @@
+- Compilador + Virtual Machine (Gera um bytecode)
+- .csproj são as configurações do projeto
+- bin são e obj possui os arquivos compilados da aplicação
+
+Estrutura do Código
+- Cláusulas 

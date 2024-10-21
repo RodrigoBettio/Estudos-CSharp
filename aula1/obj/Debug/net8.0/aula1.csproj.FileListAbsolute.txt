@@ -1,0 +1,14 @@
+C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\bin\Debug\net8.0\aula1.exe
+C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\bin\Debug\net8.0\aula1.deps.json
+C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\bin\Debug\net8.0\aula1.runtimeconfig.json
+C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\bin\Debug\net8.0\aula1.dll
+C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\bin\Debug\net8.0\aula1.pdb
+C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\obj\Debug\net8.0\aula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\obj\Debug\net8.0\aula1.AssemblyInfoInputs.cache
+C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\obj\Debug\net8.0\aula1.AssemblyInfo.cs
+C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\obj\Debug\net8.0\aula1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\obj\Debug\net8.0\aula1.dll
+C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\obj\Debug\net8.0\refint\aula1.dll
+C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\obj\Debug\net8.0\aula1.pdb
+C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\obj\Debug\net8.0\aula1.genruntimeconfig.cache
+C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\obj\Debug\net8.0\ref\aula1.dll
