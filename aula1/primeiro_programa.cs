@@ -1,6 +1,8 @@
 
 //Criando função
 
+List<string> listaBandas = new List<string>();
+
 void ExibirMensagemDeBoasVindas()
 {
     Console.WriteLine("Seja bem vindo ao meu Primeiro Programa\n"); //Sempre utilizar PascalCase para métodos e camelCase para variáveis
@@ -46,6 +48,21 @@ void ExibirMenu()
     
     }
 
+}
+
+void RegistrarBanda (){
+    Console.Clear(); //Limpa o console
+    Console.WriteLine("Registro de Bandas");
+    Console.Write("Digite o nome da banda que deseja registrar: ");
+    string bandaEscolhida = Console.ReadLine()!;
+    listaBandas.Add(bandaEscolhida); //Adicionando a banda na lista
+
+    Console.WriteLine($"A banda {bandaEscolhida} foi registrada com sucesso"); //Interpolação de String
+
+    Thread.Sleep(1500); //Espera 1500 milisegundos para 
+
+    Console.Clear();
+    ExibirMenu();
 }
 
 ExibirMensagemDeBoasVindas();
