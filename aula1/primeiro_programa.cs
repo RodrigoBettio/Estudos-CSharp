@@ -16,7 +16,7 @@ void ExibirMenu()
     Console.WriteLine("4- Mostre a média da banda");
     Console.WriteLine("5- Sair");
 
-    Console.Write("\n Digite a sua opção: "); //Tirar o line ele só escreve e não pular a linha
+    Console.Write("\nDigite a sua opção: "); //Tirar o line ele só escreve e não pular a linha
     string opcao = Console.ReadLine()!; // o "!" serve para indicar que o valor não deverá ser nulo
     int opcaoEscolhida = int.Parse(opcao);
 
@@ -31,11 +31,11 @@ void ExibirMenu()
             break;
 
         case 3:
-            AvaliarBanda();
+            //AvaliarBanda();
             break;
 
         case 4:
-            MostrarMediaBanda();
+           // MostrarMediaBanda();
             break;
 
         case 5:
@@ -62,6 +62,18 @@ void RegistrarBanda (){
     Thread.Sleep(1500); //Espera 1500 milisegundos para 
 
     Console.Clear();
+    ExibirMenu();
+}
+
+void MostrarBandas(){
+    Console.Clear();
+    for (int i = 0; i < listaBandas.Count; i++){
+        Console.WriteLine($"Banda {i+1}: {listaBandas[i]}");
+    }
+
+    Thread.Sleep(1500);
+    Console.Clear();
+
     ExibirMenu();
 }
 

@@ -12,3 +12,4 @@ C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\obj\Debug\net8.0\ref
 C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\obj\Debug\net8.0\aula1.pdb
 C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\obj\Debug\net8.0\aula1.genruntimeconfig.cache
 C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\obj\Debug\net8.0\ref\aula1.dll
+C:\Users\rodri\Programas\2024\Pessoais\Estudos-CSharp\aula1\obj\Debug\net8.0\aula1.sourcelink.json
