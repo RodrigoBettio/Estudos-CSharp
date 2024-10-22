@@ -71,6 +71,12 @@ void MostrarBandas(){
         Console.WriteLine($"Banda {i+1}: {listaBandas[i]}");
     }
 
+
+    //foreach (string banda in bandasRegistradas.Keys)
+   // {
+     //   Console.WriteLine($"Banda: {banda}");
+    //}
+
     Thread.Sleep(1500);
     Console.Clear();
 
